@@ -1,0 +1,11 @@
+.backgroundImage {
+  background-image: url("/concorde.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#forum {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
